@@ -1,0 +1,15 @@
+ ul>li:nth-child(1) a{
+    color: red;
+} 
+ul>li:nth-child(2) a{
+    color: black;
+} 
+ul>li:nth-child(3) a{
+    color: brown;
+} 
+ul>li:nth-child(4) a{
+    color: green;
+} 
+#about-us{
+    background-color: orangered;
+}
