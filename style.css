@@ -13,3 +13,29 @@ ul>li:nth-child(4) a{
 #about-us{
     background-color: orangered;
 }
+
+
+.kwadrat-1{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background: orangered;
+}
+.kwadrat-2{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background: black;
+}
+.kwadrat-3{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background: yellowgreen;
+}
+.kwadrat-4{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background: red;
+}
